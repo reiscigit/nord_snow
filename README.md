@@ -1,6 +1,6 @@
 Nord Snow
 =========
 
-A theme for Firefox, based on [Nord](https://www.nordtheme.com/) color palette.
+[Nord](https://www.nordtheme.com/) is a pure and pretty color palette. This theme tries to provide a calm ambiance for Firefox users.
 
 ![screenshot](screenshot.png)
