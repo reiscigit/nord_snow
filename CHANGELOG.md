@@ -1,5 +1,11 @@
-Change Log
-==========
+Changelog
+=========
+
+## [2.0] - 2021-08-24
+* Adapt to Proton UI (Firefox 89+)
+* Change background color to less bright
+* Change selected text/background colors
+* Change `icons_attention` color
 
 ## [1.0] - 2020-01-27
 * First official release

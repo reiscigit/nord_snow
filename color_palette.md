@@ -28,3 +28,9 @@ Aurora
 13. #ebcb8b
 14. #a3be8c
 15. #b48ead
+
+
+Customizations
+--------------
+* #5e81ac80 (button_background_active)
+* #bf618a (icons_attention)
