@@ -1,11 +1,14 @@
 Changelog
 =========
 
+## [2.1] - 2021-08-26
+* Add `button_background_hover`
+
 ## [2.0] - 2021-08-24
 * Adapt to Proton UI (Firefox 89+)
 * Change background color to less bright
 * Change selected text/background colors
-* Change `icons_attention` color
+* Change `icons_attention`
 
 ## [1.0] - 2020-01-27
 * First official release

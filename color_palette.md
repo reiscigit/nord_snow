@@ -33,4 +33,5 @@ Aurora
 Customizations
 --------------
 * #5e81ac80 (button_background_active)
+* #81a1c180 (button_background_hover)
 * #bf618a (icons_attention)

@@ -1,11 +1,12 @@
 {
     "manifest_version": 2,
-    "version": "2.0",
+    "version": "2.1",
     "name": "Nord Snow",
     "theme": {
         "colors": {
             "bookmark_text": "#2e3440",
             "button_background_active": "#5e81ac80",
+            "button_background_hover": "#81a1c180",
             "icons_attention": "#bf618a",
             "frame": "#2e3440",
             "frame_inactive": "#3b4252",
