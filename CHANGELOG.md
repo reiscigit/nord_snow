@@ -1,6 +1,9 @@
 Changelog
 =========
 
+## [2.2] - 2022-07-10
+* Change `toolbar_top_separator` to transparent
+
 ## [2.1] - 2021-08-26
 * Add `button_background_hover`
 
